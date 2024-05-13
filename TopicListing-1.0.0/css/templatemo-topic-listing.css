@@ -544,21 +544,6 @@ strong {
   height: 100%;
 }
 
-.custom-block2 {
-  border-radius: var(--border-radius-medium);
-  position: relative;
-  overflow: hidden;
-  padding: 30px;
-  transition: all 0.3s ease;
-  height: 100%;
-	background-color: var(--secondary-color);
-}
-
-.custom-block2:hover {
-  
-  transform: translateY(-3px);
-}
-
 .custom-block:hover {
   background-color: var(--secondary-color);
   transform: translateY(-3px);
