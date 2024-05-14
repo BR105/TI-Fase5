@@ -559,6 +559,21 @@ strong {
   transform: translateY(-3px);
 }
 
+.custom-block3 {
+  border-radius: var(--border-radius-medium);
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+  height: 100%;
+	background-color: var(--primary-color);
+	
+}
+
+.custom-block3:hover {
+  
+  transform: translateY(-3px);
+}
+
 .custom-block:hover {
   background-color: var(--secondary-color);
   transform: translateY(-3px);
